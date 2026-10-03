@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lordofcoolness
+- 👋 Hi, I’m @SuperTim
 - 👀 I’m interested in software building
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on programming
